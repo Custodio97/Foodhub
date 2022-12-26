@@ -651,7 +651,7 @@ padding-top: 110%;
     font-size: 13px;
 }
 
-.card-badge.grren{
+.card-badge.green{
     background: var(--pistachio);
     color: var(--space-cadet);
 }
